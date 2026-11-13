@@ -1,14 +1,11 @@
-<h1 align="center">Thiago Henrique</h1>
-
 <p align="center">
-  <b>Desenvolvedor Back-end Java em formação</b><br>
-  Construindo APIs REST com Spring Boot, JPA e bancos relacionais · Em busca de estágio em Back-end Java
+  <img src="banner.png" alt="Thiago Henrique - Java Back-end Developer" width="100%">
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/thiagohenriquedev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:thiagohenriqueb.dev@gmail.com"><img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a>
-  <img src="https://img.shields.io/badge/Status-Aberto_a_estágio-2ea44f?style=for-the-badge" alt="Aberto a estágio">
+  <img src="https://img.shields.io/badge/Disponível_para-Estágio_e_Júnior-2ea44f?style=for-the-badge" alt="Disponível para Estágio e Júnior">
 </p>
 
 ---
@@ -19,7 +16,7 @@ Sou estudante do **6º semestre de Ciência da Computação** na Universidade Pa
 
 Meu foco é **desenvolvimento Back-end com Java**. Hoje estudo e pratico a criação de APIs REST com **Spring Boot**, a modelagem de entidades e relacionamentos com **JPA/Hibernate**, a organização em camadas (controller, service, repository) e o tratamento de exceções.
 
-📍 São José do Rio Preto – SP · 🎯 Buscando **estágio em desenvolvimento Back-end Java**
+**Disponibilidade:** oportunidades de **Estágio** ou **Desenvolvedor Júnior** em Back-end Java
 
 ---
 
@@ -106,13 +103,9 @@ API REST de **controle de estoque de produtos**, com CRUD completo.
 
 ## 🎯 Objetivos profissionais
 
-Buscar oportunidades como Desenvolvedor Back-end Java (Estágio ou Júnior), contribuindo com projetos reais e equipes de desenvolvimento.
-
-Evoluir continuamente em Java, Spring Boot, Spring Security, testes automatizados (JUnit e Mockito) e Docker.
-
-Desenvolver soluções seguindo boas práticas, código limpo, documentação e princípios de arquitetura de software.
-
-Aprender com profissionais experientes, participar de code reviews e contribuir para o crescimento da equipe.
+- Atuar como **Estagiário ou Desenvolvedor Júnior Back-end Java**, contribuindo com a equipe em projetos reais
+- Aprofundar meus conhecimentos em **testes automatizados** (JUnit e Mockito), **Spring Security** e **Docker**
+- Escrever código limpo, documentado e fácil de manter, aprendendo com code reviews e com profissionais mais experientes
 
 ---
 
